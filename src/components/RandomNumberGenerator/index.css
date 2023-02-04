@@ -1,0 +1,27 @@
+/* Write your CSS here */
+.bg {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/random-no-generator-bg.png');
+  height: 100vh;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+
+.heading {
+  color: #0b69ff;
+}
+
+.button {
+  background-color: #0b69ff;
+  border-width: 0px;
+  width: 100px;
+  height: 40px;
+  border-radius: 5px;
+}
+.random {
+  text-align: center;
+  font-size: 45px;
+  color: #0b69ff;
+}
